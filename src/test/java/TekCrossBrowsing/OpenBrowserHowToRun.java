@@ -33,6 +33,7 @@ public class OpenBrowserHowToRun {
         }
 
         driver.get("https://google.com");
+        driver.quit();
     }
 
 }
