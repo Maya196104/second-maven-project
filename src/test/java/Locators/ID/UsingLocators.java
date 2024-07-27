@@ -29,9 +29,5 @@ public class UsingLocators {
         searchBtnElement.click();
 
 
-
-
-
-
     }
 }

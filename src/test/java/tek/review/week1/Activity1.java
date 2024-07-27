@@ -74,7 +74,7 @@ public class Activity1 {
              System.out.println("Test Failed");
          }
 
-       driver.quit();
+        driver.quit();
 
     }
 
