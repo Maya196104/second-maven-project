@@ -13,7 +13,7 @@ public class UsingLocators {
         Thread.sleep(3000);
 
         driver.manage().window().maximize();
-        driver.get("https://retail.tekschool-students.com/");
+        driver.get("https://retail.tekschool-students.com/");   
 
         //Locate the element
         By searchInputLocator = By.id("searchInput");

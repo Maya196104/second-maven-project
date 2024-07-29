@@ -17,3 +17,5 @@ public class RandomNumber {
 
     }
 }
+//*[@id="heroImage"]
+//  /html/body/div/div/div/div[3]/div/div/img
